@@ -1,7 +1,7 @@
 ##########
 # Win10 Initial Setup Script
 # Author: Disassembler <disassembler@dasm.cz>
-# Version: 1.7, 2016-08-15
+# Editor: MartinLavicka
 ##########
 
 # Ask for elevated permissions if required
