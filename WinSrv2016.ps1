@@ -1,5 +1,5 @@
 ##########
-# Win10 Initial Setup Script
+# WinSrv2016 Initial Setup Script
 # Author: Disassembler <disassembler@dasm.cz>
 # Editor: MartinLavicka
 ##########
